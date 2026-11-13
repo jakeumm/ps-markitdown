@@ -151,7 +151,7 @@ Get-Content path-to-file.pdf -AsByteStream | markitdown
 
 ## License
 
-TODO: add a LICENSE file and name the license here before publishing.
+TODO
 
 ## References
 
